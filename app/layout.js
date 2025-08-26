@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Pixxel",
-  description: "AI Image Editor",
+  title: "Pixxel", // change this to your app's name
+  description: "AI Image Editor", // change this to your app's description
 };
 
 export default function RootLayout({ children }) {
